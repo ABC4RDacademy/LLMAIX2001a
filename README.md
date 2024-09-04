@@ -2,6 +2,8 @@
 
 > "There is much that is new and interesting in this work. Unfortunately, everything new is uninteresting, and everything interesting is not new" - Landau.
 
+https://github.com/ABC4RDacademy/LLMAIX2001a/blob/main/FOLIO%20LLMAIX2001a.png?raw=true
+
 In course **LLMAIX2001a**, we will build a Storyteller AI Large Language Model (LLM). Hand in hand, you'll be able to create, refine, and illustrate little stories with the AI. We are going to build everything end-to-end from basics to a functioning web app similar to ChatGPT, from scratch in Python, C, and CUDA, and with minimal computer science prerequisites. By the end, you should have a relatively deep understanding of AI, LLMs, and deep learning more generally.
 
 ![LLMAIX2001a ILL](https://github.com/ABC4RDacademy/LLMAIX2001a/blob/main/LLMAIX2001a%20ILL.png)
